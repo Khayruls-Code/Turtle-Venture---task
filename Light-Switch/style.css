@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.image img {
+  width: 400px;
+  margin: 40px 0;
+  cursor: pointer;
+}
+
+.lightOn {
+  color: orange;
+}
+
+.lightOff {
+  color: black;
+}
