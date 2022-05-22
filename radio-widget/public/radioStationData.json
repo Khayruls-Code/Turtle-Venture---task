@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Putin FM",
+    "chanel": "66.6",
+    "image": "https://i.ibb.co/MV4QZRK/loveinhand.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dribbble FM",
+    "chanel": "101.2",
+    "image": "https://i.ibb.co/dBXjW1f/cartun.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Doge FM",
+    "chanel": "99.4",
+    "image": "https://i.ibb.co/PtX8myN/bulb.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ballads FM",
+    "chanel": "87.1",
+    "image": "https://i.ibb.co/j3jcRyF/suiperman.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Maximum FM",
+    "chanel": "142.2",
+    "image": "https://i.ibb.co/djR7tC4/world.jpg"
+  }
+]
